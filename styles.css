@@ -29,4 +29,19 @@
         border-top-left-radius: 25px;
         border-top-right-radius: 25px;
     }
+.navbar-brand{
+margin:0;
+padding:0;
+}
+.logo{
+    
+    height:50px;
+    paading-right:15px;
+    paading-left:5px;
+}
+.navbar-inverse{
+   height:65px;
+    padding-top:5px;
+}
+  
     
